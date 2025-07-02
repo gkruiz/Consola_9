@@ -16,56 +16,56 @@ Al iniciar se encontrara con una ventana que tiene esta forma, en esta ventana s
 
 La consola cuenta con los siguientes comandos:
 
-##### CrearCarpeta nombre
+##### 1.) CrearCarpeta nombre
 Este comando creara una nueva carpeta.
 
 
-##### RenombrarC nomAnterior nomNuevo
+##### 1.) RenombrarC nomAnterior nomNuevo
 Este comando renombrara una carpeta
 
-##### AbrirC nombre
+##### 2.) AbrirC nombre
 Este comando abre una carpeta creada
 
-##### Regresar
+##### 3.) Regresar
 Regresa a la carpeta padre, si está en la raíz no regresa se queda en la misma
 
-##### EliminarC nombre
+##### 4.) EliminarC nombre
 Se encarga de eliminar una carpeta y su contenido.
 
-##### CrearArchivo nombre
+##### 5.) CrearArchivo nombre
 Este comando creara un nuevo archivo con extensión lfp
 
-##### AbrirArchivo nombre
+##### 6.) AbrirArchivo nombre
 Este comando abre el archivo lfp guardado en alguna carpeta de root.
 
-##### RenombrarA nomAnterior nomNuevo
+##### 7.) RenombrarA nomAnterior nomNuevo
 Este comando sirve para renombrar un archivo generado
 
-##### Mover archivo "ruta"
+##### 8.) Mover archivo "ruta"
 Se encarga de mover un archivo a la ruta que se le ingresa
 
-##### Copiar archivo "ruta
+##### 9.) Copiar archivo "ruta
 Se encarga de generar un archivo, en la ruta especificada
 
-##### Eliminar nombre
+##### 10.) Eliminar nombre
 Este comando elimina un archivo de los directorios
 
-##### Cargar "ruta" nombre
+##### 11.) Cargar "ruta" nombre
 Se encarga de guardar una lista de comandos en memoria
 
-##### Ejecutar nombre
+##### 12.) Ejecutar nombre
 Ejecuta la lista de comandos que se había guardado en memoria.
 
-##### Manual Usuario
+##### 13.) Manual Usuario
 Abre el presente manual
 
-##### ManualTecnico
+##### 14.) ManualTecnico
 Abre el manual técnico de este programa
 
-##### AcercaDe
+##### 15.) AcercaDe
 Muestra la información del programador
 
-##### VerReportes
+##### 16.) VerReportes
 Muestra los archivos HTML generados.
 
 
